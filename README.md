@@ -1,0 +1,1 @@
+# hibernate-merge-4
